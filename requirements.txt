@@ -1,0 +1,6 @@
+PyQt5>=5.15.0
+qtmodern>=0.2.0
+pyinstaller>=4.5.0
+fpdf>=1.7.2
+pandas>=1.3.0
+pillow>=8.0.0
